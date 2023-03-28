@@ -1,3 +1,3 @@
 # Tesla-App
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="model3.png">
