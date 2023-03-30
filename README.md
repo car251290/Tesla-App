@@ -11,5 +11,5 @@
 </div>
 
   <div>
- <img src=" ![modelY](https://user-images.githubusercontent.com/35305955/228706361-dd0b25a3-f487-422a-8694-685a03d8a383.png)">  
+ <img src="https://user-images.githubusercontent.com/35305955/228706361-dd0b25a3-f487-422a-8694-685a03d8a383.png">  
 </div>
