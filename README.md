@@ -1,6 +1,6 @@
 # Tesla-App
 # React Native
-
+Many platforms, one React. Create platform-specific versions of components so a single codebase can share code across platforms. With React Native
 # Model 3
 <img src="https://user-images.githubusercontent.com/35305955/228104850-f8b7a48a-5095-4987-84c4-fa6f1f1cbf93.png">
 
