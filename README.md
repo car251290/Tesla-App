@@ -1,4 +1,5 @@
 # Tesla-App
+
 # React Native
 Many platforms, one React. Create platform-specific versions of components so a single codebase can share code across platforms. With React Native
 Written in JavaScript—rendered with native code
