@@ -7,9 +7,6 @@ React primitives render to native platform UI, meaning your app uses the same na
 <div> 
  <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
- <img style="width: 15%;height:15%;" src="https://static.cdnlogo.com/logos/c/27/c.svg"> 
-  <img style="width: 15%;height:15%;" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png"> 
- <img style=width:50%;height:50% src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png">
   </div>
 # View
 The most fundamental component for building a UI, View is a container that supports layout with flexbox, style, some touch handling, and accessibility controls. View maps directly to the native view equivalent on whatever platform React Native is running on, whether that is a UIView, <div>, android.view
