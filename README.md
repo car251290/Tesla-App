@@ -1,5 +1,5 @@
 # Tesla-App
-
+One of the great companies in USA
 # React Native
 Many platforms, one React. Create platform-specific versions of components so a single codebase can share code across platforms. With React Native
 Written in JavaScript—rendered with native code
@@ -9,7 +9,7 @@ React primitives render to native platform UI, meaning your app uses the same na
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
   </div>
 # View
-The most fundamental component for building a UI, View is a container that supports layout with flexbox, style, some touch handling, and accessibility controls. View maps directly to the native view equivalent on whatever platform React Native is running on, whether that is a UIView, <div>, android.view
+The most fundamental component for building a UI, View is a container that supports layout with flexbox, style, some touch handling, and accessibility controls. View maps directly to the native view equivalent on whatever platform React Native is running on, whether a UIView, <div>, android. View
 # Model 3
 <img src="https://user-images.githubusercontent.com/35305955/228104850-f8b7a48a-5095-4987-84c4-fa6f1f1cbf93.png">
 
